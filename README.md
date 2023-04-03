@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Vipin Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" src="https://th.bing.com/th/id/R.39b0b6ab6006ec4c474d52e058e771c5?rik=XwEv96lFxpsubg&riu=http%3a%2f%2fwww.simontechway.com%2fwp-content%2fuploads%2f2020%2f04%2fdev-gif-new.gif&ehk=%2bHLout22wW6RdNpcXRDojwUNVWRaGzZgvOuI%2bQWysL0%3d&risl=&pid=ImgRaw&r=0"/>
+<img align="center" alt="coding" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin787&label=Profile%20views&color=0e75b6&style=flat" alt="vipin787" /> </p>
 
