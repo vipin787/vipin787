@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Vipin Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"width="400px" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"/>
+
+<img align = "center" alt="coding" width="400px" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin787&label=Profile%20views&color=0e75b6&style=flat" alt="vipin787" /> </p>
 
