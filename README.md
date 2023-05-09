@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipin787" alt="vipin787" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipin787" alt="vipin787" /></a> </p><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
