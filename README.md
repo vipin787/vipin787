@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin787&label=Profile%20views&color=0e75b6&style=flat" alt="vipin787" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipin787" alt="vipin787" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipin787" alt="vipin787" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/cvipin787" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/cvipin787?logo=twitter&style=for-the-badge" alt="https://twitter.com/cvipin787" /></a> </p>
 
